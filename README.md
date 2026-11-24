@@ -1,17 +1,25 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" />
+<img src="./banner.png" width="100%" alt="Ramdev Somvanshi DevOps Banner"/>
+
+<br/>
 
 # 👋 Hi, I'm Ramdev Somvanshi
 
-### 🚀 DevOps Engineer | AWS | Azure | GCP | Docker | Kubernetes
+### 🚀 Aspiring DevOps Engineer | Cloud | Automation | CI/CD
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;AWS+%7C+Azure+%7C+GCP;Docker+%7C+Kubernetes+%7C+Jenkins;Automating+Builds+and+Deployments" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+DevOps+Engineer;AWS+%7C+Azure+%7C+GCP;Docker+%7C+Kubernetes;Jenkins+%7C+Ansible+%7C+Linux;Building+and+Automating+Cloud+Infrastructure" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-ramsomvanshi-181717?style=for-the-badge&logo=github)](https://github.com/ramsomvanshi)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramdev%20Somvanshi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramdev-somvanshi-416188428/)
+<a href="https://github.com/ramsomvanshi">
+<img src="https://img.shields.io/badge/GitHub-ramsomvanshi-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ramdev-somvanshi-416188428/">
+<img src="https://img.shields.io/badge/LinkedIn-Ramdev%20Somvanshi-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
@@ -20,17 +28,17 @@
 ## 💫 About Me
 
 - 👨‍💻 Third-year Bachelor of Computer Applications (BCA) student.
-- 🚀 Passionate about DevOps, Cloud Computing and Automation.
-- ☁️ Exploring AWS, Microsoft Azure and Google Cloud Platform.
-- 🐳 Hands-on practice with Docker and Kubernetes.
+- 🚀 Passionate about DevOps and Cloud Computing.
+- ☁️ Exploring AWS, Microsoft Azure and Google Cloud.
+- 🐳 Practicing containerization using Docker.
+- ☸️ Hands-on experience with Kubernetes and Amazon EKS.
 - ⚙️ Learning CI/CD automation using Jenkins and AWS CodeBuild.
 - 🔧 Working with Git, GitHub, Linux and Ansible.
-- 🎯 Focused on building, deploying and managing cloud-native applications.
-- 📚 Continuously learning modern DevOps technologies.
+- 🎯 Interested in Cloud Infrastructure and Automation.
 
 ---
 
-## 🛠️ DevOps Tech Stack
+## 🛠️ My Tech Stack
 
 <div align="center">
 
@@ -38,15 +46,15 @@
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 
-### 🚀 DevOps & CI/CD
+### ⚙️ DevOps Tools
 
-<img src="https://skillicons.dev/icons?i=jenkins,git,github,ansible,bash" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible" />
 
-### 🐳 Containers & Orchestration
+### 🔄 Version Control & CI/CD
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=git,github,bash" />
 
-### 💻 Programming & Tools
+### 💻 Programming & Development
 
 <img src="https://skillicons.dev/icons?i=linux,java,python,maven,vscode" />
 
@@ -58,43 +66,43 @@
 
 | Category | Technologies |
 |---|---|
-| Cloud | AWS, Azure, GCP |
+| Cloud Platforms | AWS, Azure, GCP |
 | Containers | Docker, Docker Compose |
 | Orchestration | Kubernetes, Amazon EKS |
 | CI/CD | Jenkins, AWS CodeBuild |
 | Configuration Management | Ansible |
 | Version Control | Git, GitHub |
-| Operating System | Linux |
+| Operating Systems | Linux |
 | Build Tools | Maven |
 | Scripting | Bash |
 | AWS Services | EC2, S3, IAM, Lambda, CloudWatch, API Gateway |
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🏗️ 1. CareerSphere – Career Platform
+### 1. 🏗️ CareerSphere – Career Platform
 
 **Connect. Apply. Grow.**
 
 - Developed a responsive career platform using React and Vite.
 - Created student, recruiter and admin interfaces.
-- Implemented modern UI components and responsive layouts.
-- Practiced frontend development and Git-based workflows.
+- Designed modern UI components and responsive layouts.
+- Practiced frontend development and Git workflows.
 
-**Technologies:** React, JavaScript, Vite, Tailwind CSS, Git, GitHub.
+**Tech Stack:** React, JavaScript, Vite, Tailwind CSS, Git, GitHub.
 
-### 🐳 2. Dockerized 3-Tier Application
+### 2. 🐳 Dockerized 3-Tier Application
 
-- Designed frontend, backend and database architecture.
+- Designed a frontend, backend and database architecture.
 - Containerized application components using Docker.
 - Created multi-container deployments using Docker Compose.
-- Configured Docker networking and persistent storage.
-- Practiced container-to-container communication.
+- Configured custom Docker networks.
+- Implemented persistent database storage.
 
-**Technologies:** Docker, Docker Compose, Linux, YAML.
+**Tech Stack:** Docker, Docker Compose, Linux, YAML.
 
-### ☁️ 3. AWS Cloud & Kubernetes Labs
+### 3. ☁️ AWS Cloud & Kubernetes Labs
 
 - Practiced EC2 instance management.
 - Worked with IAM roles and Security Groups.
@@ -103,23 +111,23 @@
 - Created and managed Amazon EKS clusters.
 - Deployed applications using Kubernetes Deployments and Services.
 
-**Technologies:** AWS, EC2, S3, IAM, Lambda, EKS, Kubernetes.
+**Tech Stack:** AWS, EC2, S3, IAM, Lambda, EKS, Kubernetes.
 
 ---
 
-## 🧪 Hands-On DevOps Experience
+## 🧪 Hands-On Practical Experience
 
-### Kubernetes
+### ☸️ Kubernetes
 
 - Pods and ReplicaSets
-- Deployments and Rollouts
-- Rollback Operations
+- Deployments and Scaling
+- Rollout and Rollback
 - Namespaces
 - ClusterIP and NodePort Services
 - LoadBalancer Services
-- Application Scaling
+- Application Deployment
 
-### AWS Cloud
+### ☁️ AWS Cloud
 
 - EC2
 - S3
@@ -131,16 +139,16 @@
 - API Gateway
 - Amazon EKS
 
-### CI/CD Automation
+### 🔄 CI/CD
 
 - Jenkins
 - GitHub Integration
 - AWS CodeBuild
 - Buildspec YAML
 - Maven Build Automation
-- Automated Build Workflows
+- Build Workflows
 
-### Docker & Linux
+### 🐳 Docker & Linux
 
 - Docker Images and Containers
 - Dockerfiles
@@ -155,7 +163,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ramsomvanshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ramsomvanshi&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsomvanshi&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -163,7 +171,7 @@
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -193,42 +201,38 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ramsomvanshi/ramsomvanshi/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 🎯 Current Learning Goals
+## 🎯 Currently Learning
 
 - 🚀 Advanced Kubernetes Administration
 - ☁️ AWS Cloud Architecture
 - 🔄 CI/CD Pipeline Automation
 - 🏗️ Infrastructure as Code (IaC)
-- 🐳 Advanced Docker & Containerization
+- 🐳 Advanced Docker
 - ⚙️ Ansible Automation
-- 📡 Cloud-Native Application Deployment
+- 📡 Cloud-Native Deployments
 
 ---
 
-## 💡 My DevOps Philosophy
+## 💡 DevOps Philosophy
 
-> Automate everything possible, continuously improve infrastructure, and build reliable systems that scale.
+> Automate repetitive tasks, simplify deployments, and build reliable infrastructure that scales.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect and Build Something Amazing!
+### 🤝 Let's Connect!
 
-**Thanks for visiting my GitHub profile!**
+**Always Learning | Always Building | Always Improving**
 
-<img src="https://komarev.com/ghpvc/?username=ramsomvanshi&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+<br/>
 
-⭐ From [Ramdev Somvanshi](https://github.com/ramsomvanshi)
+<img src="https://komarev.com/ghpvc/?username=ramsomvanshi&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
+
+<br/><br/>
+
+⭐ **Thanks for visiting my profile!**
+
+**Ramdev Somvanshi**
 
 </div>
